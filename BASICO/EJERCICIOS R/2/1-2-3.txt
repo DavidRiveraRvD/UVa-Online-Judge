@@ -1,0 +1,54 @@
+PIMB - Programación Imperativa Básica
+Taller 2 – Introducción a Python
+
+
+1. Para cada una de las siguientes expresiones indique su respectivo tipo.
+	• 1.43 :Float
+	• -10 : Int
+	• 1 == 1/1 : Error!
+	• False : Valor Boleano
+	• None : Nada
+	• 'PIMB G1' : Str, Cadena
+	• '1*4' : Str, Cadena
+	• int(4.25) : Entero = 4
+	• round(3.14) : Entero, int
+	• float('1.25') :  Float, Num Flotante
+	• 4 = 2.2 : Error!!
+	• str('Hola 1234') : Str, Cadena
+	
+2. Para las siguientes expresiones indique el valor retornado.
+	• 5*4       :20
+	• 5*4.0		:20.0
+	• --8		:8
+	• 10//4		:2
+	• 10/4		: 2.5
+	• 1/0		: "Error!!!"
+	• 2+3/4*8-5	: 3.0
+	• 2**6		: 64
+	• 4 >= 3	: True
+	• 2.9999 == 3 	: False
+	• 24%3			: 0
+	• not( True ) + 5 	: False
+	• not(1 > 2) and 5 != 25/5		: False
+	• (-1*-2)**2**3 	: 256
+
+3. Para las siguientes expresiones indique el valor retornado.
+	• 'a'+str(123)+'b'		: 'a123b'
+	• 4*'Hola'				: 'HolaHolaHolaHola'
+	• '4'*'Mundo'			: 
+	• 'abcd' – 'a'			: SyntaxError: invalid character in identifier
+	• var1 = '9874'			: ->
+	• var2 = 'PIMB G1\n'	: ->
+	• len(var1)				: 4
+	• len(var2)+len(var1)	: 12
+	• var1[0]				: 9
+	• var2[-1]				: '\n'
+	• var1[40]				: Error!!
+	• var2[:4]				: 'PIMB'
+	• var1[1:]				: '874'
+	• var2[1:6]				: 'IMB G'
+	• var1[::]				: '9874'	
+	• '9' in var1			: True
+	• var2.strip()			: 'PIMB G1'
+	• var2.split()			: ['PIMB', 'G1']
+	

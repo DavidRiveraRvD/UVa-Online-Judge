@@ -1,0 +1,10 @@
+************* Module studentcode
+C: 17, 0: Trailing whitespace (trailing-whitespace)
+C:  1, 0: Missing module docstring (missing-docstring)
+C:  2, 0: Missing function docstring (missing-docstring)
+R:  3, 4: Unnecessary "else" after "return" (no-else-return)
+C: 10, 0: Missing function docstring (missing-docstring)
+
+-----------------------------------
+Your code has been rated at 6.15/10
+
